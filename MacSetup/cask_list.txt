@@ -1,0 +1,3 @@
+macdown
+openclonk-c54d917-darwin-amd64-clang
+xquartz
